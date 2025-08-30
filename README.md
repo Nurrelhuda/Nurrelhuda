@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Nurrelhuda
-- 👀 I’m interested in mobile application development 
-- 🌱 I’m currently learning flutter 
+- 👀 I’m interested in web development 
 - 💞️ I’m looking to collaborate on improve myself in programing 😌
 - 📫 How to reach me by email nouralhoda.mosad6@gmail.com ☺️
 - 😄 Pronouns: i love learning more than teaching 👽
